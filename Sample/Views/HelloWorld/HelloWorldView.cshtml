@@ -1,0 +1,11 @@
+@page
+@model Sample.Views.HelloWorld.HelloWorldViewModel
+@{
+    ViewData["Title"] = "HelloWorldView";
+}
+
+<h1>HelloWorldView</h1>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

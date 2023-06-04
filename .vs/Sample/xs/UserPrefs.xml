@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{13AD95CD-299D-4E1B-A0A8-A5C7D351E764}|https">
+  <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample/Program.cs">
+    <Files>
+      <File FileName="Sample/Views/Home/Index.cshtml" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Sample/Controllers/HomeController.cs" Line="24" Column="6" />
+      <File FileName="Sample/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Sample/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Sample/Controllers/HelloWorldController.cs" Line="10" Column="6" />
+      <File FileName="Sample/Program.cs" Line="25" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sample" expanded="True">
+            <Node name="Sample" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
